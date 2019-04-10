@@ -204,7 +204,7 @@ Finally, I iterated through the values in the `found_crops` array and selected t
 ## Functions used in the main code
 
 | Function | Description 
-| :--- | :---: 
+| :--- | :--- 
 | md5 | Returns md5 checksum of the file  
 | getUniqueCrops | Returns hash dict of unique crops filenames 
 | matchCrop | Does the template matching, returns -1 if no match found 
